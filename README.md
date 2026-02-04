@@ -32,13 +32,13 @@ I'm a passionate developer focused on building intelligent solutions and masteri
 
 ## GitHub Analytics
 
-![Wasif's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasif-rahman&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![Wasif's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasif-rahman&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wasif-rahman&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wasif-rahman&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800)
 
 ## GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wasif-rahman&theme=radical&hide_border=true&background=0D1117)
+![GitHub Streak](https://streak-stats.demolab.com/?user=wasif-rahman&theme=radical&hide_border=true&background=0D1117)
 
 ## GitHub Trophies
 
