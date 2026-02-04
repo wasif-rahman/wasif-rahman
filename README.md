@@ -30,19 +30,9 @@ I'm a passionate developer focused on building intelligent solutions and masteri
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## GitHub Analytics
-
-![Wasif's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasif-rahman&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wasif-rahman&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
 ## GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wasif-rahman&theme=radical&hide_border=true&background=0D1117)
-
-## GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=wasif-rahman&theme=radical&row=1&column=7&no-frame=true&no-bg=true)
 
 ## Connect with Me
 
