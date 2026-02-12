@@ -50,16 +50,6 @@ Docker · Git
 
 ---
 
-## Recent Activity
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wasif-rahman&theme=radical&hide_border=true&background=0D1117)
-
-</div>
-
----
-
 ## Find Me
 
 [LinkedIn](https://www.linkedin.com/in/wasif-rehman-5665612a8) · [Twitter](https://x.com/dev_wasif) · [Email](mailto:wasifrahman.dev@gmail.com)
